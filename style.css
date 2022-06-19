@@ -1,0 +1,19 @@
+.card{
+    display: -ms-inline-grid;
+    grid-template-columns: 2ft 2ft;
+
+}
+
+#cont{
+    align-items: center;
+    display: -ms-inline-grid;
+    grid-template-columns: 2ft 2ft;
+    box-sizing: 40px;
+}
+.btn{
+    margin-left: 50%;
+}
+
+body{
+    background-color: rgb(235, 235, 235);
+}
